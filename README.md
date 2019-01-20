@@ -1,7 +1,9 @@
 # flyingbosun
 
 
-Salmon fishing Puget Sound
+* this page: salmon fishing Puget Sound
+* sub-folder: launch notes
+* sub-folder: gunkholing notes
 
 
 ## Fishing
