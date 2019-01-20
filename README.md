@@ -29,11 +29,16 @@ Salmon fishing Puget Sound
     * [11" ProTroll](https://www.amazon.com/inch-Pro-Troll-Hot-Chip-Flashers/dp/B00D989JJI/ref=sr_1_14?keywords=flasher+protroll&qid=1548000400&s=Sports+%26+Outdoors&sr=1-14)
       * Some of these ProTrolls have lights ($$$) and some claim to have chips that mimic bait fish electrical........
     * Also some anecdotal support for smaller 8 inch flashers
+    * Line-twist with spoon-and-flasher: Size 3 Sampo or Berkley ball-bearing swivel in-line about a foot above the flasher 
+      * Up a bit so as not to impede the action of an attractor or lure by adding too much weight directly to it
+      * ...so the swivel goes up the line a ways rather than using a snap-swivel attached directly to the top of the flasher
+      * ...but not so far above the flasher that the rig is too long; harder to land a fish
   * lures
     * a lot of what i see starts by recommending spoons
       * downrigger -- 15 feet -- 11" ProTroll flasher -- 26 -- 36" leader -- spoon + scent + garlic powder
       * [Coho Killer](https://www.amazon.com/gp/product/B0778YSFJH/ref=ox_sc_saved_title_2?smid=AGEU5BOCQ1AB8&psc=1)
         * "Finish" recs include Irish Cream, Cookies N Cream, Water Melon, Chrome, White Lightning
+      * Sonic Edge spoons maybe? as similar to old-style Coyotes; anecdotal
       * Bigger bait? 
         * [Ace Hi Fly with UV finish](https://www.amazon.com/Silver-Horde-Ace-Fly-Lures/dp/B00AU5W72E/ref=sr_1_2?keywords=ace+hi+fly&qid=1547854281&s=Sports+%26+Outdoors&sr=1-2-catcorr)
           * This is related to Jeramy's rig?
@@ -63,7 +68,13 @@ Salmon fishing Puget Sound
         * About 42 inches of 30-pound Berkley Big Game UltraClear monofilament to flasher
         * little Smelly Jelly (usually herring or anchovy scent on the concave (chrome) side of the spoon
         * ...and a little more near the tail end of the flasher.
+  * hooks
+    * [This article](http://salmonuniversity.com/archives/3736) is interesting
+    * Sharp sharp shar: Three-sided point, use sharpener, inspect hooks always
+    * Single: Matsuo sickle hooks recommended
+    * Pair of singles: Mustad’s 92553 octopus hook
+      * Top hook right behind the head of the bait or lure
+      * Bottom hook slightly behind the tail end of the lure
+      
+  
 
-> I mentioned the fact that I like the “older” Coyotes, of which I still have dozens stashed away in my boat and in my shop, because, quite frankly, the newer ones (which aren’t made in Hood River anymore) don’t work very well for me. Knowing that my old Coyotes will some day be gone, I’ve been experimenting with Silver Horde/Gold Star’s Sonic Edge spoons, which feature a small blade on the hook ring, similar to the Coyote, and I like what I’m seeing. It may not be long before they make their way to the top of my blackmouth-getter list.
-
-> In the past I’ve had some problems with line-twist while using my spoon-and-flasher rigs, so I now tie a size 3 Sampo or Berkley ball-bearing swivel in-line, about a foot above the flasher. I don’t like running the risk of hindering the action of an attractor or lure by adding too much weight directly to it, and that’s why the swivel goes up the line a ways rather than using a snap-swivel attached directly to the top of the flasher. But don’t tie the swivel too far above the flasher; making the entire rig too long which could cause problems when you’re trying to get a hooked salmon close enough for netting.
