@@ -78,5 +78,28 @@
       * Top hook right behind the head of the bait or lure
       * Bottom hook slightly behind the tail end of the lure
       
-  
+
+Fishing report 
+Our go to mooching bait is a green or red label herring, plug cut, on a two hook mooching rig. We use 3/0 – 2/0 Gamakatsu octopus hooks on a light 20lb leader. We find we get that extra bit of spin on the light leader and small hooks. Total leader length is 6’. We’re catching our fish at or near the bottom both on the drop and also the retrieve but we have absolutely caught many fish near the surface as well so be sure to fish those baits throughout the entire water column…watch for follow-ups at the surface.
+
+When we’re trolling we focus on targeting the bottom and aren’t afraid to make contact with our downrigger weights fairly often. Flasher and spoon, and flasher and hoochie have been the go to technique on the troll.
+
+
+after landed...
+
+It’s important to take care of your fish why go through the trouble of catching fish, if you’re going to leave them out in the sun or soaking up water in the bottom of your cooler? Fish that is properly cared for not only tastes superior, but it looks better, too.
+
+The procedure on my boat is the following:
+
+1. I stun the fish with a billy club, you’re not trying to kill it or hit a home run, just a smack just above the eyes will usually do the trick. Remember, stun it to make it easier to handle is the key.
+
+2. We bleed every fish that comes onboard. I take a pair of scissors and cut the gills on both sides of the fish’s head. You can use a knife, however on a bouncing boat, scissors are much safer.
+
+3. I then place the fish on a bleeding line attached to the side of the boat, so it’s just under the water along side, you’re not trolling for seals, keep it close to the boat. The fish is still alive, so the heart will pump all the blood out of the fish into the water making the flesh of the fish much better eating. If you have a macerator pump out on your fish box with water flowing through it, you can do this procedure onboard your boat.
+
+4. After 15 minutes I remove the fish and keep it in a cool fish box on ice if necessary until I’m ready to clean it. This is unless it’s a pink (Humpy) salmon in which case I will clean it immediately and pack it in ice to keep the flesh firm.
+
+5. At the end of the fishing day I clean the fish whole or fillet it, and then place them in a sealed fish bag packed in ice for trip home.
+
+6. At home I trim the fish up, re-wash it and either eat it within a day or vacuum pack it and freeze it to smoke or can later.
 
