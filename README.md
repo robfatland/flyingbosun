@@ -22,7 +22,7 @@ Region 10 closed early for 2019; always check [the bulletins](https://fortress.w
     * San Juans recommended, with places to fish on both the flood and ebb tides
       * Ideal condition are moderate tides when the exchange is about a foot per hour
     * 2 - 2.5 mph SOG on average: with the current (chinook are active pursuit fish)
-  * Downrigger trolling
+  * Downrigger trolling: From downrigger to flasher to bait to hooks... maybe to a fish
     * "...trolling we focus on targeting the bottom and aren’t afraid to make contact with our downrigger weights fairly often. Flasher and spoon, and flasher and hoochie have been the go to technique on the troll."
     * downrigger
       * 10 - 20 feet off the bottom
