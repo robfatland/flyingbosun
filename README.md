@@ -9,7 +9,7 @@
 ## Fishing
 
 ### Blackmouth
-https://fortress.wa.gov/dfw/erules/efishrules/rules_current_order_by_date.j)
+
 Region 10 closed early for 2019; always check [the bulletins](https://fortress.wa.gov/dfw/erules/efishrules/rules_current_order_by_date.j)
  
 
