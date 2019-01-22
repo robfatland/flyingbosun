@@ -1,18 +1,19 @@
 # flyingbosun
 
 
-* this page: salmon fishing Puget Sound
-* sub-folder: launch notes
-* sub-folder: gunkholing notes
+* this page: salmon fishing crib notes for Puget Sound
 
 
 ## Fishing
 
+### Links
+
+* [Ted's Sports Center reports / updates](https://www.tedssportscenter.com/reports/)
+* [Washington F&G rule updates page](https://fortress.wa.gov/dfw/erules/efishrules/rules_current_order_by_date.j)
+
 ### Blackmouth
 
-Region 10 closed early for 2019; always check [the bulletins](https://fortress.wa.gov/dfw/erules/efishrules/rules_current_order_by_date.j)
- 
-
+* ***Region 10 closed early for 2019, alas***
 * From [blackmouth fishing page](http://salmonuniversity.com/archives/444) at [salmon university](http://salmonuniversity.com)
   * blackmouth are juvenile chinook; this concerns winter fishing
     * 5 - 15 pound fish chasing herring and candle fish (and maybe squid?) near the bottom in 50 -- 150 feet depth
