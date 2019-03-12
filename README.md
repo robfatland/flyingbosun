@@ -1,11 +1,5 @@
 # flyingbosun
-
-
-* this page: salmon fishing crib notes for Puget Sound
-
-
-## Fishing
-
+## Salmon crib notes, Puget Sound
 ### Links
 
 * [Ted's Sports Center reports / updates](https://www.tedssportscenter.com/reports/)
@@ -13,27 +7,22 @@
 
 ### Blackmouth
 
-* ***Region 10 closed early for 2019, alas***
-* From [blackmouth fishing page](http://salmonuniversity.com/archives/444) at [salmon university](http://salmonuniversity.com)
-  * blackmouth are juvenile chinook; this concerns winter fishing
-    * 5 - 15 pound fish chasing herring and candle fish (and maybe squid?) near the bottom in 50 -- 150 feet depth
-    * 22 inches minimum length; spots on upper and lower tail; big spots on back; dark mouth; black gums; large sharp teeth
-    * hatchery only, no wild; healed scar of clipped adipose fin
+* From the [blackmouth fishing page](http://salmonuniversity.com/archives/444) at [salmon university](http://salmonuniversity.com)
+  * blackmouth == juvenile chinook; season runs to Sunday March 31
+    * 5 - 15 pound fish < herring, candle fish, squid(?) near the bottom in 50 -- 150 feet 
+    * 22" minimum; spots on upper and lower tail; big spots on back; dark mouth; black gums; large sharp teeth
+    * hatchery only, no wild; check for the healed scar of a clipped adipose fin
   * fishing
-    * San Juans recommended, with places to fish on both the flood and ebb tides
-      * Ideal condition are moderate tides when the exchange is about a foot per hour
-    * 2 - 2.5 mph SOG on average: with the current (chinook are active pursuit fish)
-  * Downrigger trolling: From downrigger to flasher to bait to hooks... maybe to a fish
-    * "...trolling we focus on targeting the bottom and aren’t afraid to make contact with our downrigger weights fairly often. Flasher and spoon, and flasher and hoochie have been the go to technique on the troll."
-    * downrigger
-      * 10 - 20 feet off the bottom
-      * 20-30 degree angle on the wire recommended
-        * This suggests a handy table of cosines and an angle template
-      * bigger fish are below the 'shakers'
-      * Triangle flasher idea: Goes above/near downrigger ball
-        * [silver horde triangle](https://www.amazon.com/Silver-Horde-13-Rudder-Flasher/dp/B00SZ4YUHM/ref=sr_1_3?keywords=silver+horde+flasher&qid=1547999629&s=Sports+%26+Outdoors&sr=1-3)
-        * upper corner to cable, lower corner to ball, rear corner to downrigger clip
-        * described in [this video](https://youtu.be/jUFoPzkyNKE) to stabilize downrigger ball tracking and attract fish
+    * San Juans recommended, good locations for both flood and ebb; ideally moderate slack tides
+    * Recommending 2 - 2.5 mph SOG with the current as chinook are active pursuit fish
+    * Flasher and spoon or flasher and hoochie have been the go to technique on the troll
+    * Downrigger trolling... to flasher to bait (scent) to single barbless
+      * Near the bottom; 'not afraid' to make contact with downrigger weights fairly often
+      * 10 - 20 feet off the bottom, 20-30 degree angle on the wire recommended
+      * bigger fish are below the 'shakers' (immature / too small)
+      * Suggested: 
+[silver horde triangle](https://www.amazon.com/Silver-Horde-13-Rudder-Flasher/dp/B00SZ4YUHM/ref=sr_1_3?keywords=silver+horde+flasher&qid=1547999629&s=Sports+%26+Outdoors&sr=1-3)
+above downrigger ball
     * flasher
       * UV / white / green; some go as far as fluorescent or attaching little lights
       * [11" ProTroll](https://www.amazon.com/inch-Pro-Troll-Hot-Chip-Flashers/dp/B00D989JJI/ref=sr_1_14?keywords=flasher+protroll&qid=1548000400&s=Sports+%26+Outdoors&sr=1-14)
