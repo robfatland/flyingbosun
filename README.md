@@ -2,6 +2,7 @@
 ## Salmon crib notes, Puget Sound
 ### Links
 
+* [Fishing regs](https://wdfw.wa.gov/publications/01998/wdfw01998.pdf)
 * [Ted's Sports Center reports / updates](https://www.tedssportscenter.com/reports/)
 * [Washington F&G rule updates page](https://fortress.wa.gov/dfw/erules/efishrules/rules_current_order_by_date.j)
 
