@@ -1,5 +1,9 @@
 # flyingbosun
-## Salmon crib notes, Puget Sound
+
+These are some crib notes on fishing for salmon in Puget Sound and nearby
+[.](https://github.com/robfatland/ops)
+
+
 ### Links
 
 * [Fishing regs](https://wdfw.wa.gov/publications/01998/wdfw01998.pdf)
