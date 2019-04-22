@@ -10,6 +10,7 @@ These are some crib notes on fishing for salmon in Puget Sound and nearby
 * [Ted's Sports Center reports / updates](https://www.tedssportscenter.com/reports/)
 * [Washington F&G rule updates page](https://fortress.wa.gov/dfw/erules/efishrules/rules_current_order_by_date.j)
 * [North sound salmon U](http://salmonuniversity.com/regions/washington/puget-sound-north) '15 pound ball' -Jeramy
+* [Interesting article on coho method](https://riptidefish.com/easy-breezy-resident-coho-salmon-fishing-in-puget-sound-report/)
 
 ### Blackmouth
 
