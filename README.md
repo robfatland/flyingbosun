@@ -6,7 +6,7 @@ These are some crib notes on fishing for salmon in Puget Sound and nearby
 
 ### Links
 
-* [Fishing regs](https://wdfw.wa.gov/publications/01998/wdfw01998.pdf)
+* [Fishing regs](https://wdfw.wa.gov/sites/default/files/publications/02077/wdfw02077.pdf)
 * [creel report: Use day of to get location hints!](https://wdfw.wa.gov/fishing/reports/creel/puget)
 * [Ted's Sports Center reports / updates](https://www.tedssportscenter.com/reports/)
 * [Washington F&G rule updates page](https://fortress.wa.gov/dfw/erules/efishrules/rules_current_order_by_date.j)
